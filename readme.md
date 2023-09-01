@@ -22,8 +22,7 @@ Bruno Gabriel:Definiu as classes ( Livro e Biblioteca ). Criou o construtor da c
 
 Josemelry Vitória:Criou uma instância da classe `Biblioteca` chamada `biblioteca`. Isso significa que agora temos uma biblioteca vazia pronta para ser usada para armazenar livros.
 
-Jennyfer Wyngrid:Definiu a função (exibirMenu), que lida com a interação do usuário com a biblioteca por meio de um menu de texto. A função exibe opções como adicionar, pesquisar, editar, excluir livros ou sair do programa.
-   - Dentro desta função, também implementou o código para cada uma das opções do menu, incluindo: Adicionar Livro, Pesquisar Livros, Editar Livro, Excluir Livro.
+Jennyfer Wyngrid:Definiu a função (exibirMenu), que lida com a interação do usuário com a biblioteca por meio de um menu de texto. A função exibe opções como adicionar, pesquisar, editar, excluir livros ou sair do programa,Dentro desta função, também implementou o código para cada uma das opções do menu, incluindo: Adicionar Livro, Pesquisar Livros, Editar Livro, Excluir Livro.
 
 referências:
 
